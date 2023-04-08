@@ -29,4 +29,5 @@ Here are some ideas to get you started:
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=art11010&card_width=450&bg_color=000000006&layout=compact&theme=buefy)
 
+  <br>
 </div>
