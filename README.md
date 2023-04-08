@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=art11010&show_icons=true&bg_color=FAA0AA&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=art11010&show_icons=true&bg_color=000000006&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)
   
 </div>
 
