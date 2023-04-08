@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Waving&text=YEZI's%20github&fontColor=FFFFFF&fontSize=40&fontAlignY=27&&color=EF848F&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=YEZI's%20github&fontColor=FFFFFF&fontSize=40&fontAlignY=27&&color=FAA0AA&animation=twinkling)
 
 </div>
 
