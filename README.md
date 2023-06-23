@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 </div>
 
+<!--
+
 <h3 align="center">🎐 My Github Stats 🎐</h3>
 
 <br>
@@ -31,3 +33,5 @@ Here are some ideas to get you started:
 
   <br>
 </div>
+
+-->
