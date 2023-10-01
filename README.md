@@ -1,37 +1,31 @@
-<!--
-**art11010/art11010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
 
 <div align="center">
   
+   ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=FF78A080&text=Yezi's%20Github&height=150&fontSize=55&desc=playground%20of%20projects%20and%20ideas&descAlignY=75&descAlign=70)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/art11010/art11010/main/waves.svg" width="100%" height="150">
+
+<br>
+
+# Hello! 🎐
+
+I am a front-end developer from Korea. You can view my projects here on GitHub.
+
+Also, don't hesitate to see the posts I've uploaded or the things I've studied on <a href="https://velog.io/@art11010" target="_blank" rel="noopener noreferrer">my blog</a>.
+
+
+<!--
+https://github.com/matfantinel/matfantinel/blob/master/README.md
+
+<div align="center">
+
   ![header](https://capsule-render.vercel.app/api?type=Waving&text=YEZI's%20github&fontColor=FFFFFF&fontSize=40&fontAlignY=27&&color=FF78A0&animation=twinkling)
 
 </div>
 
-<!--
-
-<h3 align="center">🎐 My Github Stats 🎐</h3>
-
-<br>
-
-<div align="center">
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=art11010&show_icons=true&bg_color=000000006&hide_title=true&show_icons=true&include_all_commits=true&theme=buefy)
-  
-  <br>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=art11010&card_width=450&bg_color=000000006&layout=compact&theme=buefy)
-
-  <br>
-</div>
+[![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fart11010&count_bg=%23FF78A0&title_bg=%23555555&icon=googlefit.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/art11010/art11010)
 
 -->
