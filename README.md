@@ -2,7 +2,7 @@
 
 <div align="center">
   
-   [![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=FF78A080&text=Yezi's%20Github&height=150&fontSize=55&desc=playground%20of%20projects%20and%20ideas&descAlignY=75&descAlign=70)](https://github.com/art11010/art11010)
+   [![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=FF78A0A0&text=Yezi's%20Github&height=150&fontSize=55&desc=playground%20of%20projects%20and%20ideas&descAlignY=75&descAlign=70)](https://github.com/art11010/art11010)
 
 </div>
 
