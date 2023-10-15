@@ -6,7 +6,7 @@
 
 </div>
 
-[<img src="https://raw.githubusercontent.com/art11010/art11010/main/waves.svg" width="100%" height="150">](https://github.com/art11010/art11010)
+[<img src="https://raw.githubusercontent.com/art11010/art11010/main/waves.svg" width="100%" height="150">](https://github.com/art11010)
 
 <br>
 
