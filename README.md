@@ -12,7 +12,7 @@
 
 # Hello! 🎐
 
-I am a front-end developer from Korea. You can view my projects here on GitHub.
+I am a front-end developer from South Korea. You can view my projects here on GitHub.
 
 Also, don't hesitate to see the posts I've uploaded or the things I've studied on <a href="https://velog.io/@art11010" target="_blank" rel="noopener noreferrer">my blog</a>.
 
